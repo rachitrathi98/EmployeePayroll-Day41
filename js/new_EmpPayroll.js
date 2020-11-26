@@ -92,7 +92,6 @@ const CreateNewEmployee = (id)=>
     SetEmployeePayrollObject(employee);
     return employee;
 }
-
 //Set the objects with values from the form
 function SetEmployeePayrollObject(employee)
 {

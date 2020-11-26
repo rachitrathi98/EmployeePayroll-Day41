@@ -72,7 +72,6 @@ function GetDepartment(deptList)
     }
     return departments;
 }
-
 //Get date in particular format
 function GetDate(startDate)
 {
